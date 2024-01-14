@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at <a href="raulsalomonigl.firebaseapp.com" target="blank"> RaulSalomonIgl<img align="center" src="https://www.svgrepo.com/show/130741/blog.svg" alt="raulsalomonigl" height="30" width="40" /></a>
-
 - 📫 How to reach me **iglesiasraularturo2001@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
