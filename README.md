@@ -1,29 +1,50 @@
-<h1 align="center">Hi 👋, I'm RaulSalomonIgl <img height="35" src="https://user-images.githubusercontent.com/73568954/129619952-5810e97b-3318-40bc-941a-6f6f4a6252ab.png"/></h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raulsalomonigl&label=Profile%20views&color=0e75b6&style=flat" alt="raulsalomonigl" /> </p>
+# Hi, I’m Raúl Salomon, a passionate frontend developer from Mexico 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulsalomonigl&theme=onedark&column=-1" alt="raulsalomonigl" /></a> </p>
+##  Who is Raul Salomon?  🧑🏻‍💻
 
-<p align="left"> <a href="https://twitter.com/raulsalomon09" target="blank"><img src="https://img.shields.io/twitter/follow/raulsalomon09?logo=twitter&style=for-the-badge" alt="raulsalomon09" /></a> </p>
+I enjoy transforming ideas into functional products, combining creativity and technology to solve problems and improve processes. My goal is always to deliver high-quality, well-structured code aligned with industry best practices.
 
-- 🔭 I’m currently working on **CodeX**
+* 🔭 I’m currently working on **Facultad de Contaduría Pública y Administración**
+* 🌱 I’m currently learning backEnd **NodeJS** and **Angular**
+* 📫 How to reach me: [raul-salomon.vercel.app](https://raul-salomon.vercel.app/)
+  
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&)](https://twitter.com/RaulSalomon09)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/ra%C3%BAl-arturo-salomon-iglesias-1a3782231/))
+[![GitHub RaulSalomonIgl](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RaulSalomonIgl)
 
-- 🌱 I’m currently learning **Angular**
+## 🎧 A little more about me
 
-- 📫 How to reach me **iglesiasraularturo2001@outlook.com**
+When I'm not coding, I love listening to music and enjoy exploring new technologies and learning skills that help me grow both professionally and personally.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/raulsalomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raulsalomon" height="30" width="40" /></a>
-<a href="https://twitter.com/raulsalomon09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raulsalomon09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raúl arturo salomon iglesias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raúl arturo salomon iglesias" height="30" width="40" /></a>
-<a href="https://instagram.com/raulsalomon09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raulsalomon09" height="30" width="40" /></a>
-</p>
+### Skills
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)  [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+```typescript
+const RaulSalomon: Developer = {
+  pronouns: 'He / Him',
+  pastCompanies: ['FACPYA'],
+  lowCodeTools: ['Figma', 'Canva', 'Notion', 'Trello'],
+  techCommunities: {
+    organizer: [
+      'Comunidad Estudiantil de Tecnologías de Información de FACPyA',
+    ],
+    events: [
+      'Innovaccion Virtual',
+      'Launch X',
+      'Major League Hacking - Tigre Hacks',
+      'La Hackathon Del Dev',
+    ],
+  },
+}
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulsalomonigl&show_icons=true&locale=en&layout=compact" alt="raulsalomonigl" /></p>
+### GitHub Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raulsalomonigl&show_icons=true&locale=en" alt="raulsalomonigl" /></p>
+<div style="display: flex; align-items: stretch; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaulSalomonIgl&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulSalomonIgl&theme=dark&layout=compact">
+</div>
